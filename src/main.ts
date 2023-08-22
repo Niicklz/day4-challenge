@@ -1,0 +1,1 @@
+document.getElementById("btnToggler")?.addEventListener("click", ()=> document.getElementById("input")?.classList.toggle("toggle"))
